@@ -39,5 +39,16 @@
     width: 100px;
 }.card{
     border: none;
-box-shadow:4px 4px 9px crimson;
+box-shadow:2px 2px 7px crimson;
+}
+.card-footer{
+    background-color: whitesmoke;
+    border: none;
+}
+#Connect{
+    height: 300px;
+}#Connect h6{
+    color: gray;
+}footer{text-align: center;
+    color: grey;
 }
